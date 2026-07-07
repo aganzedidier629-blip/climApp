@@ -1,0 +1,6 @@
+{
+  "name": "Analyseur Météo & Saisons IA",
+  "description": "Application mobile innovante d'adaptation climatique par Shirikano Training. Analyse le ciel, détecte les saisons, fournit des prévisions météo et propose des conseils personnalisés pour le style de vie (habillement, alimentation, activités).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
